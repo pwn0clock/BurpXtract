@@ -37,7 +37,7 @@ This tool is made for you. ⚔️
 
 ## 📸 Workflow
 
-![Demo](https://github.com/7urb4nat0r/BurpXtract/blob/main/workflow.gif)
+![Demo](https://github.com/pwn0clock/BurpXtract/blob/main/workflow.gif)
 
 
 ---
@@ -51,7 +51,7 @@ This tool is made for you. ⚔️
 ### 💻 Install from Source
 1. Clone this repo:
    ```bash
-   git clone https://github.com/7urb4nat0r/BurpXtract/
+   git clone https://github.com/pwn0clock/BurpXtract/
 2. Download the latest version of Burp Suite (Community Edition). Place the downloaded JAR (e.g., burpsuite_community.jar) inside the BurpXtract directory
 3.Make sure Java 21 or later is installed:
    ```bash
